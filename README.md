@@ -14,6 +14,25 @@ A web-based application that allows users to schedule emails to be sent automati
 
 ---
 
+## Technologies Used
+
+### Frontend
+- React.js
+- JavaScript (ES6)
+- HTML5
+- CSS3
+
+### Backend
+- Node.js
+- Express.js
+- Email service (SMTP / Nodemailer)
+
+### Tools
+- Git & GitHub
+- npm
+
+---
+
 ## Project Structure
 
 ```text

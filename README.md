@@ -8,8 +8,10 @@ A web-based application that allows users to schedule emails to be sent automati
 
 - Schedule emails for future delivery
 - Automatic email sending
+- REST API–based communication
 - Frontend built with React
 - Backend built with Node.js and Express
+- Dockerized environment support
 - Clean and modular project structure
 
 ---
@@ -25,11 +27,14 @@ A web-based application that allows users to schedule emails to be sent automati
 ### Backend
 - Node.js
 - Express.js
-- Email service (SMTP / Nodemailer)
+- Nodemailer (Email Service)
+- REST APIs
 
-### Tools
+### Tools & Platforms
 - Git & GitHub
 - npm
+- **Postman** – API testing
+- **Docker Desktop** – Containerization
 
 ---
 
